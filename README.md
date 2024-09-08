@@ -24,5 +24,5 @@
 Согласно информации с сайта [similarweb](https://pro.similarweb.com/?sourcepage=website-analysis&domain=ebay.com):
 
 ![Распределение по полу](https://github.com/Alladan04/higholad_coursework/raw/main/img.png)
-![Распределение по возрасту](https://github.com/Alladan04/higholad_coursework/raw/main/img.png)
+![Распределение по возрасту](https://github.com/Alladan04/higholad_coursework/raw/main/img_1.png)
    
