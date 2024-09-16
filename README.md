@@ -21,14 +21,14 @@
 * Участвовать в аукционе (сделать ставку)
 ### Целевая аудитория
 
-По данным с [hypestat](https://hypestat.com/info/ebay.com) и [ebay.com](https://www.ebayinc.com/company/):
+По данным с [hypestat](https://hypestat.com/info/ebay.com) и [отчетов ebay.com](https://investors.ebayinc.com/overview/default.aspx):
 * 632+ млн посещений в месяц
-* 132 млн активных покупателей в месяц (активными считаются покупатели, которые совершили хотя бы 1 покупку в предыдущие 12 месяцев)
+* 132 млн активных покупателей (активными считаются покупатели, которые совершили хотя бы 1 покупку в предыдущие 12 месяцев)
 * 20+ млн посещений в день
 * 146+ млн страниц просматривается посетителями ежедневно
 * Основная часть покупателей сервиса (≈81%) находится в США
-* Распределение продавцов по странам:
-* <img width="1218" alt="Pasted Graphic" src="https://github.com/user-attachments/assets/6bb3f1c9-0174-4b39-806b-35c075b953da">
+* 18 млн активных продавцов
+* 2+ млрд активных объявлений
 
 ### Основные продуктовые решения:
 * Главная модель совершения сделок - аукцион.
@@ -38,4 +38,4 @@
 ## Использованные ресурсы:
 1. https://hypestat.com/info/ebay.com
 2. https://www.ebayinc.com/company/
-3. https://pro.similarweb.com/?sourcepage=website-analysis&domain=ebay.com
+3. https://investors.ebayinc.com/overview/default.aspx
