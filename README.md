@@ -26,12 +26,6 @@
 * 146+ млн страниц просматривается посетителями ежедневно
 * Основная аудитория сервиса (≈81%) находится в США
 
-Согласно информации с сайта [similarweb](https://pro.similarweb.com/?sourcepage=website-analysis&domain=ebay.com):
-
-#### Распределение пользователей по полу
-![Распределение по полу](https://github.com/Alladan04/higholad_coursework/raw/main/img.png)
-#### Распределение пользователей по возрасту
-![Распределение по возрасту](https://github.com/Alladan04/higholad_coursework/raw/main/img_1.png)
 
 ### Основные продуктовые решения:
 * Главная модель совершения сделок - аукцион.
