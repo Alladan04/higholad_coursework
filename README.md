@@ -306,13 +306,6 @@ Elasticsearch: olivere/elastic
 CEPH: go-ceph
 
 ### Обеспечение доступности
-**Партицирование**\
-Данные Postgres партицируем по функциям:
--  Listing
--  Category 
--  Auction, Bid 
--  Profile, Address, Comment
--  Order
   
 **Шардинг**
 
