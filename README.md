@@ -279,7 +279,7 @@ RPS = среднее_кол-во_действий_в_день * DAU / 86400
 |ElasticSearch |Listing|- Шардирование и репликация средствами ElasticSearch <br> - Архивные объявления из Elastic удаляются (так как по ним поиск не происходит)|По Title, Description, CategoryID, Features, PublicationDate|
 |MongoDB|Listing|- MS-репликация <br> - Архивные объявления хранятся отдельно <br> | OwnerID <br>PublicationDate <br> |
 |Postgresql|Comment|MS-репликация <br> - Шардинг по хэшу от ProfileID|Индекс по ProfileID|
-|Postgresql|Auction|MS-репликация <br> - Шардтинг по хэшу от ListingID| Индекс по ListingID <br> Индекс по BuyerID <br> Индекс по SellerID|
+|Postgresql|Auction|MS-репликация <br> - Шардтинг по хэшу от ListingID| Индекс по ListingID <br> Индекс по SellerID|
 |Postgresql|Bid|MS-репликация <br> - Шардинг по хэшу от AuctionID| Индекс по AuctionID<br>Индекс по BuyerID, CreatedAt|
 |Postgresql|Order|MS-репликация <br> - Шардинг по хэшу от ProfileID|Индекс по BuyerID<br> Индекс по SellerID <br>|
 |ClickHouse|UserAction|MS-репликация <br> - Шардинг по дате|-|
