@@ -396,7 +396,6 @@ Mongo: mongodb/mongo-go-driver
 | **PostgreSQL**       | Собственный | 2xAMD EPYC 7313 / 256GB RAM / 4xNVMe 4TB   | 15             | $15,000                            | $225,000               | $3,750                  |
 | **ClickHouse**       | Собственный | 2xAMD EPYC 7313 / 256GB RAM / 4xNVMe 4TB   | 15             | $15,000                            | $225,000               | $3,750                  |
 | **CEPH Storage**     | Собственный | 1xIntel Xeon 4314 / 128GB RAM / 8xHDD 16TB | 30             | $10,000                            | $300,000               | $5,000                  |
-| **CI/CD Servers**    | Собственный | i7-13700 / 64GB RAM / 2xNVMe 2TB           | 5              | $5,000                             | $25,000                | $417                    |
 
 ---
 ## Использованные ресурсы:
